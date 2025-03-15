@@ -10,10 +10,10 @@
 <h3 align="center">🌟 About Me</h3>
 
 - 👀 I’m interested in **learning and exploring new technologies**  
-- 🌱 I’m currently learning **DevOps, Docker, Kubernetes, and SQL**  
+- 🌱 I’m currently learning **Next.js, TS, React**  
 - 👯 I’m looking to collaborate on **exciting and innovative projects**  
-- 📫 Reach me at **prajwalmehotra26@gmail.com**  
-- ⚡ Fun fact: **I love trekking and exploring nature!**
+- 📫 Reach me at **shemantipal.sun@gmail.com**  
+- ⚡ Fun fact: **I love photography, writing and exploring nature!**
 
 ---
 
@@ -71,16 +71,14 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/prajwal-m-486827130/" target="_blank">
+  <a href="https://www.linkedin.com/in/shemanti-pal-954006280/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/prajwalmehrotra234/" target="_blank">
+  <a href="https://leetcode.com/u/ShemantiPal/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/@prajwalmehrotra1" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
-  </a>
-  <a href="https://instagram.com/mehrotraprajwal" target="_blank">
+ 
+  <a href="https://instagram.com/shemantipal" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
 </p>
